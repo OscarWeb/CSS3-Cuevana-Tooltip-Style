@@ -8,7 +8,7 @@ Demo
 
 ![screenshot](http://9ls.com.ar/oscarweb/posts/tooltip_estilo_cuevana/tooltip_estilo_cuevana.jpg)
 
-Don't forget to check the [live demo](http://a00.com.ar/thumb/)
+Don't forget to check the [live demo](http://www.oscarweb.com.ar/ejemplos/tooltip-estilo-cuevana-en-css/)
 
 
 Info
