@@ -6,7 +6,7 @@ CUEVANA has a nice tooltip to display information about the multimedia content, 
 Demo
 ====
 
-![screenshot](http://9ls.com.ar/oscarweb/posts/tooltip_estilo_cuevana/tooltip_estilo_cuevana.jpg)
+![screenshot](http://www.oscarweb.com.ar/ejemplos/tooltip-estilo-cuevana-en-css/thumb.jpg)
 
 Don't forget to check the [live demo](http://www.oscarweb.com.ar/ejemplos/tooltip-estilo-cuevana-en-css/)
 
